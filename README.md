@@ -13,11 +13,11 @@ Sou Desenvolvedora Full Stack formada pela Generation Brasil.
 
 <p align="left">
   
-  <a href="https://www.linkedin.com/in/marianatheml" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1c1424?style=for-the-badge&logo=Linkedin&logoColor=FF79C6&link=https://www.linkedin.com/in/marianatheml"/>
+  <a href="https://www.linkedin.com/in/giovanna-gon%C3%A7alves-090023224/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1c1424?style=for-the-badge&logo=Linkedin&logoColor=FF79C6&link=https://www.linkedin.com/in/giovanna-gon%C3%A7alves-090023224/"/>
   </a>
   
-  <a href="mailto:geoo.vanna2305l@gmail.com" alt="Email">
+  <a href="mailto:geoo.vanna2305@gmail.com" alt="Email">
     <img src="https://img.shields.io/badge/-Gmail-1c1424?style=for-the-badge&logo=gmail&logoColor=FF79C6"/>
   </a>
 </p>
