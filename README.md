@@ -28,5 +28,7 @@ Sou Desenvolvedora Full Stack formada pela Generation Brasil.
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaGS&layout=compact&langs_count=7&theme=omni"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=GiovanaGS&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 </div>
+   ![Snake animation](https://github.com/mayaratlt/mayaratlt/blob/output/github-contribution-grid-snake.svg)
   
+
 
